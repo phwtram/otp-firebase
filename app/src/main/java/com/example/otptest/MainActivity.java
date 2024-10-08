@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
                 } else {
                     // if the text field is not empty we are calling our
                     // send OTP method for getting OTP from Firebase.
-                    String phone = "+91" + edtPhone.getText().toString();
+                    String phone = "+1" + edtPhone.getText().toString();
                     sendVerificationCode(phone);
                 }
             }
