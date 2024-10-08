@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694056720676",
+    "project_id": "vfoody-fec8a",
+    "storage_bucket": "vfoody-fec8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694056720676:android:4f7100cd63bd0d32177bb1",
+        "android_client_info": {
+          "package_name": "com.example.otptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc_FQ_cNzk_j3O7SaEp9dpO9aN9hz89AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
